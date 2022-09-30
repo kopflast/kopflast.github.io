@@ -12,3 +12,7 @@ div {
 p {
 	padding: 10px;
 }
+
+.pic {
+	align-content: center;
+}
