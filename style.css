@@ -1,5 +1,14 @@
 /* Styles für die GitHub-Page */
 
 body {
+	color: white;
 	background-color: darkred;
+}
+
+div {
+	padding: 10px;
+}
+
+p {
+	padding: 10px;
 }
